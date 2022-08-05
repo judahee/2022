@@ -17,7 +17,7 @@
     <td width="300px"> 풀이 </td>
   </tr>
   <tr align="center">
-    <td> LEVEL1 </td> <td> 손익분기점 (백준 1712번 문제) </td> <td> 22년 1월 </td> <td> </td>
+    <td> LEVEL1 </td> <td> 손익분기점 (백준 1712번 문제) </td> <td> 22년 1월 </td> <td> <a href="https://github.com/judahee/2022/blob/main/level_1/0126.py">풀이</a> </td>
   </tr>
  
 </table>
