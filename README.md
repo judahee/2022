@@ -17,7 +17,7 @@
     <td width="300px"> 풀이 </td>
   </tr>
   <tr align="center">
-    <td> LEVEL1 </td> <td> <a href="https://github.com/judahee/2022/blob/main/level_1/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.md" 손익분기점 </a> </td> <td> 22년 1월 </td> <td> <a href="https://github.com/judahee/2022/blob/main/level_1/0126.py">풀이</a> </td>
+    <td> LEVEL1 </td> <td> <a href="https://github.com/judahee/2022/blob/main/level_1/%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.md"> 손익분기점 </a> </td> <td> 22년 1월 </td> <td> <a href="https://github.com/judahee/2022/blob/main/level_1/0126.py">풀이</a> </td>
   </tr>
  
 </table>
